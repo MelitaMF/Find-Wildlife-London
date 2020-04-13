@@ -1,8 +1,8 @@
 # Find Wildlife London
-Category: Educational resource
-<br> Aim: Entertaining and educating children
-<br> Produced as part of CFG Hack from Home
-<br> https://findcollabs.com/hackathon/cfg-hack-from-home-3rcp30fbxbfbezyiqkst
+* Category: Educational resource
+* Aim: Entertaining and educating children
+* Produced as part of CFG Hack from Home
+* https://findcollabs.com/hackathon/cfg-hack-from-home-3rcp30fbxbfbezyiqkst
 
 ## Table of contents
 * [General info](#general-info)
