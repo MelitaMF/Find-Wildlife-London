@@ -44,7 +44,8 @@ Project is: _in progress_
 ## Contributors
 Add people once you know their gits
 
-* [abduljeleelng] (https://github.com/abduljeleelng)
+* [@abduljeleelng] (https://github.com/abduljeleelng)
+* Enimofe
 * [@MelitaMF](https://github.com/MelitaMF)
 
 ## Contact
