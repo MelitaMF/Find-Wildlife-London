@@ -1,6 +1,6 @@
 # Find Wildlife London
 Category: Educational resource
-Aim: Entertaining and educating children
+<br> Aim: Entertaining and educating children
 Produced as part of CFG Hack from Home
 https://findcollabs.com/hackathon/cfg-hack-from-home-3rcp30fbxbfbezyiqkst
 
@@ -45,4 +45,4 @@ Project is: _in progress_
 Add people once you know their gits
 
 ## Contact
-Contact me :) [@MelitaMFl](https://github.com/MelitaMF)
+Contact me :) [@MelitaMF](https://github.com/MelitaMF)
