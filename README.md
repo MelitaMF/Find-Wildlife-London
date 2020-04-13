@@ -1,8 +1,8 @@
 # Find Wildlife London
 Category: Educational resource
 <br> Aim: Entertaining and educating children
-Produced as part of CFG Hack from Home
-https://findcollabs.com/hackathon/cfg-hack-from-home-3rcp30fbxbfbezyiqkst
+<br> Produced as part of CFG Hack from Home
+<br> https://findcollabs.com/hackathon/cfg-hack-from-home-3rcp30fbxbfbezyiqkst
 
 ## Table of contents
 * [General info](#general-info)
@@ -15,9 +15,9 @@ https://findcollabs.com/hackathon/cfg-hack-from-home-3rcp30fbxbfbezyiqkst
 * [Contact](#contact)
 
 ## General info
-Target group: children 5 – 11 years and parents, nature/wildlife enthusiasts
-Rationale: During lockdown children are even more detached from nature than before. Web page containing seasonal London wildlife (plants, flowers, bugs and animals) could provide learning and entertainment platform.
-Method: Web page scraping Instagram, Facebook and Tweeter hashtags, possibly publishing short stories written by anyone. It could have quizzes and games if there is someone techy enough to build that
+* Target group: children 5 – 11 years and parents, nature/wildlife enthusiasts
+* Rationale: During lockdown children are even more detached from nature than before. Web page containing seasonal London wildlife (plants, flowers, bugs and animals) could provide learning and entertainment platform.
+* Method: Web page scraping Instagram, Facebook and Tweeter hashtags, possibly publishing short stories written by anyone. It could have quizzes and games if there is someone techy enough to build that
 
 ## Screenshots
 ![Example screenshot](add once done)
