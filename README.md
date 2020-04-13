@@ -2,7 +2,7 @@
 * Category: Educational resource
 * Aim: Entertaining and educating children
 * Produced as part of CFG Hack from Home
-* https://findcollabs.com/hackathon/cfg-hack-from-home-3rcp30fbxbfbezyiqkst
+<br> https://findcollabs.com/hackathon/cfg-hack-from-home-3rcp30fbxbfbezyiqkst
 
 ## Table of contents
 * [General info](#general-info)
@@ -43,6 +43,9 @@ Project is: _in progress_
 
 ## Contributors
 Add people once you know their gits
+
+* [abduljeleelng] (https://github.com/abduljeleelng)
+* [@MelitaMF](https://github.com/MelitaMF)
 
 ## Contact
 Contact me :) [@MelitaMF](https://github.com/MelitaMF)
