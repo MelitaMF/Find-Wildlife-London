@@ -23,11 +23,7 @@
 ![Example screenshot](add once done)
 
 ## Technologies
-* React Js - For The front-end, Official front-end frame work from [Facebook](https:reactjs.org)
-* Node Js  - Javascript Library for the back-end [Node](https://nodejs.org)
-* Express - [express](https://expressjs.com)
-* MongoDB  - Database  [MongoDB](https://mongodb.com)
-* Mongoose - ODM for MongoDB Database [Mongoose](https://mongoosejs.com)
+
 
 ## Setup
 
@@ -38,12 +34,13 @@ Add examples:
 ## Features
 List of features ready an
 * Entertainment Video 
-* Edducational Materials 
+* Educational Materials 
+* Educational Games
 * And many more ...
 
 To-do list:
 * UI/ UX - The graphical represntation of the App/ Platform
-* Front-end - The Really Application interface 
+* Front-end - The Application interface 
 * Back-end - The Logic area of the Application
 * Testing the Application 
 * Hosting the Application 
@@ -54,8 +51,8 @@ Project is: _in progress_
 ## Contributors
 Add people once you know their gits
 
-* [@abduljeleelng](https://github.com/abduljeleelng)
-* Enimofe
+* [@Arsomeree](https://github.com/Arsomeree)
+* [@tannypandey](https://github.com/tannypandey0
 * [@MelitaMF](https://github.com/MelitaMF)
 
 ## Contact
