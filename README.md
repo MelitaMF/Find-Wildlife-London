@@ -55,5 +55,8 @@ Add people once you know their gits
 * [@tannypandey](https://github.com/tannypandey)
 * [@MelitaMF](https://github.com/MelitaMF)
 
+Mentor:
+* [@HussienElSawy](https://github.com/HussienElSawy)
+
 ## Contact
 Contact me :) [@MelitaMF](https://github.com/MelitaMF)
