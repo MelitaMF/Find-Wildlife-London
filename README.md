@@ -49,8 +49,6 @@ To-do list:
 Project is: _in progress_
 
 ## Contributors
-Add people once you know their gits
-
 * [@Arsomeree](https://github.com/Arsomeree)
 * [@tannypandey](https://github.com/tannypandey)
 * [@MelitaMF](https://github.com/MelitaMF)
