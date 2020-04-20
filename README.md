@@ -52,7 +52,7 @@ Project is: _in progress_
 Add people once you know their gits
 
 * [@Arsomeree](https://github.com/Arsomeree)
-* [@tannypandey](https://github.com/tannypandey0
+* [@tannypandey](https://github.com/tannypandey)
 * [@MelitaMF](https://github.com/MelitaMF)
 
 ## Contact
