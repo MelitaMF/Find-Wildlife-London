@@ -8,6 +8,13 @@ body, html {
     height: 100%;
   }
 
+  .center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+
+
 /* Jumbo first for landing and jumbo second for other pages */
 .jumbotron-first {
   background-image: url('lachlan-gowen_Jumbotron.jpg');
