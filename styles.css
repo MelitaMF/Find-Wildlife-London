@@ -1,0 +1,86 @@
+@import url(https://fonts.googleapis.com/css?family=Allerta+Stencil);
+
+body {
+  background-color: #906c46;
+  }
+/* Image and title */
+body, html {
+    height: 100%;
+  }
+  .center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+
+/* Jumbo first for landing and jumbo second for other pages */
+.jumbotron-first {
+  background-image: url('lachlan-gowen_Jumbotron.jpg');
+    background-color: #906c46;
+  position: relative;
+  background-size: cover;
+  height: 80%;
+  background-repeat: no-repeat;
+  font-size: 5vw;
+  color: #DCDCDC;
+      font-family: "Allerta Stencil", serif;
+  }
+
+.jumbotron-second {
+  background-image: url('lachlan-gowen_Jumbotron.jpg');
+  background-size: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  font-size: 5vw;
+  color: #DCDCDC;
+      font-family: "Allerta Stencil", serif;
+  }
+
+/* Navigation */
+  .navbar {
+   min-height: 60px; font-size: 2vw;
+  }
+
+/*Text options */
+      h1 {
+        color: white;
+        margin-left: 0px;
+        style="font-size: 20vw";
+        font-family: "Allerta Stencil", serif;
+      }
+
+      h2 {
+        color: #212809;
+        margin-left: 0px;
+        style="font-size:5vw";
+        font-family: "Arial", Arial, serif;
+      }
+
+
+    p {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 2.5vmin;
+      }
+
+
+
+/* Social Media */
+    .fa {
+      padding: 20px;
+      font-size: 30px;
+      width: 50px;
+      text-align: center;
+      text-decoration: none;
+      }
+      .fa:hover {
+      opacity: 0.7
+      }
+    .fa-facebook {
+      color: #DCDCDC;
+      }
+      .fa-twitter {
+      color: #DCDCDC;
+      }
+      .fa-instagram {
+      color: #DCDCDC;
+      }
