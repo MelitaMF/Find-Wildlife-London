@@ -23,7 +23,10 @@
 ![Example screenshot](add once done)
 
 ## Technologies
-
+* C#
+* HTML
+* CSS
+* JavaScript
 
 ## Setup
 
