@@ -50,6 +50,7 @@ Project is: _in progress_
 
 ## Contributors
 * [@Arsomeree](https://github.com/Arsomeree)
+* [@elisabenaglia](https://github.com/elisabenaglia)
 * [@tannypandey](https://github.com/tannypandey)
 * [@MelitaMF](https://github.com/MelitaMF)
 

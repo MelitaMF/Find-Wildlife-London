@@ -45,14 +45,14 @@ body, html {
 
 /*Text options */
       h1 {
-        color: white;
+        color: #DCDCDC;
         margin-left: 0px;
         style="font-size: 20vw";
         font-family: "Allerta Stencil", serif;
       }
 
       h2 {
-        color: #212809;
+        color: #DCDCDC;
         margin-left: 0px;
         style="font-size:5vw";
         font-family: "Arial", Arial, serif;
