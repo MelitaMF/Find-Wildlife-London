@@ -1,0 +1,145 @@
+@import url(https://fonts.googleapis.com/css?family=Allerta+Stencil);
+
+body {
+  background-color: #906c46;
+  }
+/* Image and title */
+body, html {
+    height: 100%;
+  }
+
+  .center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+
+
+/* Jumbo first for landing and jumbo second for other pages */
+.jumbotron-first {
+  background-image: url('lachlan-gowen_Jumbotron.jpg');
+    background-color: #906c46;
+  position: relative;
+  background-size: cover;
+  height: 80%;
+  background-repeat: no-repeat;
+  font-size: 5vw;
+  color: #DCDCDC;
+      font-family: "Allerta Stencil", serif;
+  }
+
+.jumbotron-second {
+  background-image: url('lachlan-gowen_Jumbotron.jpg');
+  background-size: 100%;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  font-size: 5vw;
+  color: #DCDCDC;
+      font-family: "Allerta Stencil", serif;
+  }
+
+/* Navigation */
+  .navbar {
+   min-height: 60px; font-size: 2vw;
+  }
+
+/*Text options */
+      h1 {
+        color: #DCDCDC;
+        margin-left: 0px;
+        style="font-size: 35vw";
+        font-family: "Allerta Stencil", serif;
+      }
+
+      h2 {
+        color: #DCDCDC;
+        margin-left: 0px;
+        style="font-size:5vw";
+        font-family: "Allerta Stencil", serif;
+      }
+
+
+    p {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 2.5vmin;
+      }
+
+/* Quizz page style */
+
+          .quiz{
+            font-weight: 300;
+            margin: 0px;
+            padding: 10px;
+            font-size: 20px;
+            background-color: #444;
+            color: #fff;
+          }
+          .question{
+            font-size: 30px;
+            margin-bottom: 10px;
+          }
+          .answers {
+            margin-bottom: 20px;
+            text-align: left;
+            display: inline-block;
+          }
+          .answers label{
+            display: block;
+            margin-bottom: 10px;
+          }
+          button{
+            font-family: 'Work Sans', sans-serif;
+              font-size: 22px;
+              background-color: #279;
+              color: #fff;
+              border: 0px;
+              border-radius: 3px;
+              padding: 20px;
+              cursor: pointer;
+              margin-bottom: 20px;
+          }
+          button:hover{
+              background-color: #38a;
+          }
+
+          .slide{
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            width: 100%;
+            z-index: 1;
+            opacity: 0;
+            transition: opacity 0.5s;
+          }
+          .active-slide{
+            opacity: 1;
+            z-index: 2;
+          }
+          .quiz-container{
+            position: relative;
+            align: center;
+            height: 200px;
+            margin-top: 40px;
+          }
+
+
+/* Social Media */
+    .fa {
+      padding: 20px;
+      font-size: 30px;
+      width: 50px;
+      text-align: center;
+      text-decoration: none;
+      }
+      .fa:hover {
+      opacity: 0.7
+      }
+    .fa-facebook {
+      color: #DCDCDC;
+      }
+      .fa-twitter {
+      color: #DCDCDC;
+      }
+      .fa-instagram {
+      color: #DCDCDC;
+      }
