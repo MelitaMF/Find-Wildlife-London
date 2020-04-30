@@ -11,8 +11,9 @@
 
     <style>@import url(https://fonts.googleapis.com/css?family=Work+Sans:300,600);
 
-        body{
-            font-size: 20px;
+
+        .QuizBody{
+          font-size: 20px;
           font-weight: 300;
           text-align: center;
           
@@ -88,19 +89,24 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="index2.html" target=>Home</a>
+
+          <a class="nav-link" href="index.html" target=>Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="aboutindex.html" target=>About</a>
+          <a class="nav-link" href="index2.html" target=>About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="rentingindex2.html" target=>Visuals</a>
+          <a class="nav-link" href="indextwitter.html" target=>ExploreNews</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="faqindex.html" target=>Play</a>
+          <a class="nav-link" href="indexinsta.html" target=>ExplorePhotos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="faqindex.html" target=>Contact</a>
+          <a class="nav-link" href="indexgames.html" target=>Play</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="indexcontact.html" target=>Contact</a>
+
         </li>
       </ul>
     </div>
@@ -115,11 +121,17 @@
     <h2>Time to test your general knowledge on the local Wildlife around you</h2>
     </div>
   </div>
-  
+
+  <div class="QuizBody">
+
     <h1 class="quiz">Quiz on Wildlife Facts</h1>
     <div class="quiz-container">
       <div id="quiz"></div>
     </div>
+
+    <br>
+    <br>
+
     <button id="previous">Previous Question</button>
     <button id="next">Next Question</button>
     <button id="submit">Submit Quiz</button>
@@ -281,6 +293,8 @@
         nextButton.addEventListener("click", showNextSlide);
       })();
       </script>
+
+</div>
 
 
 <!---footer do not delete--->
