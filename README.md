@@ -20,7 +20,7 @@
 * Method: Web page scraping Instagram, Facebook and Tweeter hashtags, possibly publishing short stories written by anyone. It could have quizzes and games if there is someone techy enough to build that
 
 ## Screenshots
-![Example screenshot](add once done)
+![About page screenshot](FWL_screenshot.png)
 
 ## Technologies
 * C#
