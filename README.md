@@ -1,4 +1,7 @@
 # Find Wildlife London
+
+URL: https://melitamf.github.io/Find-Wildlife-London/index.html
+<br>
 * Category: Educational resource
 * Aim: Entertaining and educating children
 * Produced as part of CFG Hack from Home
@@ -17,7 +20,6 @@
 ## General info
 * Target group: children 5 – 11 years and parents, nature/wildlife enthusiasts
 * Rationale: During lockdown children are even more detached from nature than before. Web page containing seasonal London wildlife (plants, flowers, bugs and animals) could provide learning and entertainment platform.
-* Method: Web page scraping Instagram, Facebook and Tweeter hashtags, possibly publishing short stories written by anyone. It could have quizzes and games if there is someone techy enough to build that
 
 ## Screenshots
 ![About page screenshot](FWL_screenshot.png)
@@ -29,10 +31,10 @@
 * JavaScript
 
 ## Setup
+Not needed, page used technologies above. Games need to be downloaded as we cannot host them yet.
 
 ## Code Examples
-Add examples:
-`my-code-here`
+Not needed, project is public.
 
 ## Features
 List of features ready an
@@ -41,15 +43,20 @@ List of features ready an
 * Educational Games
 * And many more ...
 
-To-do list:
+Done:
 * UI/ UX - The graphical represntation of the App/ Platform
-* Front-end - The Application interface 
-* Back-end - The Logic area of the Application
-* Testing the Application 
-* Hosting the Application 
+* Front-end - The interface 
+* Back-end - The Logic area
+* Testing 
+* Hosting 
+
+To do List:
+* Hosting game
+* Building quiz to recognise typical wildlife in UK
+* Making an App for this
 
 ## Status
-Project is: _in progress_
+Project is: _done but could be developed further_
 
 ## Contributors
 * [@Arsomeree](https://github.com/Arsomeree)
