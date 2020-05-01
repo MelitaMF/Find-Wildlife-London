@@ -62,6 +62,9 @@ To do List:
 ## Status
 Project is: _done but could be developed further_ :bulb:
 
+##Improvements/Limitations
+The games are not mobile ready yet, and could this could be part of the Version 2 of the Games. Currently the games are a MVP ( minimum viable product).
+
 ## Contributors
 * [@Arsomeree](https://github.com/Arsomeree)
 * [@elisabenaglia](https://github.com/elisabenaglia)
