@@ -1,6 +1,9 @@
 # Find Wildlife London
-
+:cherry_blossom::deciduous_tree::maple_leaf::herb:
+<br>
 URL: https://melitamf.github.io/Find-Wildlife-London/index.html
+<br>
+:honeybee::beetle::rabbit::mouse:
 <br>
 * Category: Educational resource
 * Aim: Entertaining and educating children
@@ -18,7 +21,7 @@ URL: https://melitamf.github.io/Find-Wildlife-London/index.html
 * [Contact](#contact)
 
 ## General info
-* Target group: children 5 – 11 years and parents, nature/wildlife enthusiasts
+* Target group: children 5 – 11 years and parents, nature/wildlife enthusiasts :baby:
 * Rationale: During lockdown children are even more detached from nature than before. Web page containing seasonal London wildlife (plants, flowers, bugs and animals) could provide learning and entertainment platform.
 
 ## Screenshots
@@ -34,7 +37,7 @@ URL: https://melitamf.github.io/Find-Wildlife-London/index.html
 Not needed, page used technologies above. Games need to be downloaded as we cannot host them yet.
 
 ## Code Examples
-Not needed, project is public.
+Not needed, project is public. :unlock:
 
 ## Features
 List of features ready an
@@ -56,7 +59,7 @@ To do List:
 * Making an App for this
 
 ## Status
-Project is: _done but could be developed further_
+Project is: _done but could be developed further_ :bulb:
 
 ## Contributors
 * [@Arsomeree](https://github.com/Arsomeree)
