@@ -29,9 +29,10 @@ URL: https://melitamf.github.io/Find-Wildlife-London/index.html
 
 ## Technologies
 * C#
-* HTML
 * CSS
+* HTML
 * JavaScript
+* Visual studio
 
 ## Setup
 Not needed, page used technologies above. Games need to be downloaded as we cannot host them yet.
